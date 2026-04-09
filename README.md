@@ -54,10 +54,6 @@
 - 📐 **[CAD Studio](https://cadclone.vercel.app/)** - A web-based CAD application with selection window highlight and entity grip editing capabilities.
 - 💼 **[Portfolio 2024](https://mltpascualold.vercel.app/)** - Previous iteration of my personal portfolio website.
 
-## GitHub Activity
-
-![GitHub Contribution Graph](https://ghchart.rshah.org/mltpascual)
-
 ## What I'm Doing
 
 - **Data Analyst (Contract)** - Meta (Sept 2025 — Present) | Improving annotation accuracy and LLaMA AI performance.
