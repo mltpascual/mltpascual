@@ -1,6 +1,6 @@
 # Hi, I'm Miguel 👋
 
-📍 **Canada** | 🤖 **Full Stack Web Developer** | 🚀 **Ex-Meta & ING Bank**
+📍 **Canada** | 🤖 **Full Stack Web Developer** | 🚀 **Meta & Ex-ING Bank**
 
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
