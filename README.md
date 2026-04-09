@@ -16,7 +16,7 @@
 
 > Specializing in scalable web applications, AI-powered solutions, and automation that makes a difference. Building digital solutions that drive results.
 
-💼 **[mltpascual.xyz](https://mltpascual.xyz)** – My personal portfolio and hub for all my projects.
+💼 **[mltpascual.xyz](https://mltpascual.xyz)** – My personal portfolio and hub for all my projects..
 
 ## Current Projects
 
