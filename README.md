@@ -75,21 +75,8 @@
 
 ### Recognition
 
-- **Meta Data Analyst** - Led workstreams improving annotation accuracy by ~15%.
-- **ING Bank PEGA Engineer** - Designed a custom API reducing response time by 90% and automated 200+ regression tests.
-- **Freelance Web Developer** - Delivered 15+ custom websites driving an average 30% boost in customer engagement.
-- **Operations Manager** - Streamlined day-to-day operations for Foods On The Go Corporation.
-
-### Philosophy
-
-> "Building digital solutions that drive results." - I specialize in scalable web applications, AI-powered solutions, and automation that makes a difference.
-
-<details>
-<summary>Random Facts</summary>
-
 - Over 30+ comprehensive projects built and deployed.
 - Proficient across a massive tech stack: React, Node.js, C#, Python, SQL, and more.
 - Strong background in both technical engineering and operational management.
 - Always open to hearing about new projects, creative ideas, or opportunities.
 
-</details>
