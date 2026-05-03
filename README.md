@@ -12,14 +12,16 @@
 ![SwiftUI](https://img.shields.io/badge/-SwiftUI-FA7343?style=flat-square&logo=swift&logoColor=white)
 ![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Rust](https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=white)
 ![Playwright](https://img.shields.io/badge/-Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)
 
 > Specializing in scalable web applications, AI-powered solutions, and automation that makes a difference. Building digital solutions that drive results.
 
-💼 **[mltpascual.xyz](https://mltpascual.xyz)** – My personal portfolio and hub for all my projects..
+💼 **[mltpascual.xyz](https://mltpascual.xyz)** – My personal portfolio and hub for all my projects.
 
 ## Current Projects
 
+- 🧭 **[Polymarket CLI V2](https://github.com/mltpascual/polymarket-cli-v2)** - A Rust command-line client for Polymarket, patched for the CLOB V2 migration with V2 order signing, pUSD collateral defaults, approval checks, market data, and JSON/table output.
 - 🚨 **[Bantay Pilipinas (PH Mission Control)](https://bantay.bettergov.ph/)** - Real-time Philippine disaster monitoring and situational awareness dashboard.
 - 💰 **[Tipid — Budgeting Without The Stress](https://tipidbudget.vercel.app/)** - A free, offline-first personal budget tracker PWA for Filipino users.
 - 📈 **[Finance News Terminal](https://financenews.mltpascual.xyz/)** - A web-based Finance news Terminal aggregating real-time data from 10+ APIs.
@@ -71,8 +73,7 @@
 
 ### Recognition
 
-- Over 30+ comprehensive projects built and deployed.
+- Over 31+ comprehensive projects built and deployed.
 - Proficient across a massive tech stack: React, Node.js, C#, Python, SQL, and more.
 - Strong background in both technical engineering and operational management.
 - Always open to hearing about new projects, creative ideas, or opportunities.
-
