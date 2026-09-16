@@ -36,7 +36,7 @@
 - 💍 **[Wedding RSVP](https://joshella.vercel.app/)** - A simple wedding RSVP site built with React + Vite and backed by Firebase.
 - 🏢 **[Barangay Digital](https://brgy-digital.vercel.app/)** - A full-stack web application that automates barangay certificate issuance.
 - 📝 **[Order Taker Web](https://ordertakerweb.vercel.app/)** - A fast, clean order-taking progressive web app built for food and beverage businesses.
-- 👨‍💻 **[Dynamic Portfolio](https://mltpascuall.vercel.app/)** - A reusable, fully dynamic software engineer portfolio with a full-stack architecture.
+- 👨‍💻 **[Dynamic Portfolio](https://mltpascual.xyz)** - A reusable, fully dynamic software engineer portfolio with a full-stack architecture.
 - 👕 **[Tondo Supply](https://tondosupply.vercel.app/)** - A high-impact streetwear landing page for a sustainable clothing brand.
 - 🎬 **[Make It Happen Productions](https://makeithappenprod.vercel.app/)** - A multimedia company delivering creative services in video production and branding.
 - 🪙 **[Mirai Asian Trading](https://miraiasiantrading.vercel.app/)** - A reliable gold trading company specializing in gold bars, coins, and jewelry.
