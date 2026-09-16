@@ -21,6 +21,7 @@
 
 ## Current Projects
 
+- 🏙️ **[Skyline Residences](https://skyline-residences.vercel.app/)** - A luxury residences website showcasing premium living above the city.
 - 🧭 **[Polymarket CLI V2](https://github.com/mltpascual/polymarket-cli-v2)** - A Rust command-line client for Polymarket, patched for the CLOB V2 migration with V2 order signing, pUSD collateral defaults, approval checks, market data, and JSON/table output.
 - 🚨 **[Bantay Pilipinas (PH Mission Control)](https://bantay.bettergov.ph/)** - Real-time Philippine disaster monitoring and situational awareness dashboard.
 - 💰 **[Tipid — Budgeting Without The Stress](https://tipidbudget.vercel.app/)** - A free, offline-first personal budget tracker PWA for Filipino users.
@@ -55,7 +56,6 @@
 - 📊 **[GPD Advisors](https://gpdproposal.vercel.app/)** - A professional single-page marketing website for a financial advisory firm.
 - 📐 **[CAD Studio](https://cadclone.vercel.app/)** - A web-based CAD application with selection window highlight and entity grip editing capabilities.
 - 💼 **[Portfolio 2024](https://mltpascualold.vercel.app/)** - Previous iteration of my personal portfolio website.
-- 🏙️ **[Skyline Residences](https://skyline-residences.vercel.app/)** - A luxury residences website showcasing premium living above the city.
 
 ## What I'm Doing
 
