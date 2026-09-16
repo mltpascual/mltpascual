@@ -55,6 +55,7 @@
 - 📊 **[GPD Advisors](https://gpdproposal.vercel.app/)** - A professional single-page marketing website for a financial advisory firm.
 - 📐 **[CAD Studio](https://cadclone.vercel.app/)** - A web-based CAD application with selection window highlight and entity grip editing capabilities.
 - 💼 **[Portfolio 2024](https://mltpascualold.vercel.app/)** - Previous iteration of my personal portfolio website.
+- 🏙️ **[Skyline Residences](https://skyline-residences.vercel.app/)** - A luxury residences website showcasing premium living above the city.
 
 ## What I'm Doing
 
